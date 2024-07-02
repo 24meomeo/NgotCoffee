@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972597650732",
+    "project_id": "ngotcoffee-c1d60",
+    "storage_bucket": "ngotcoffee-c1d60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972597650732:android:3d309e3773d47db88fb889",
+        "android_client_info": {
+          "package_name": "com.example.ngotcoffee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUDqvgppLHjOsOPzcoLZA5JitVm-ax9tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
